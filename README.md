@@ -1,4 +1,4 @@
-# Python Projects
+# Python_Projects
 
 Welcome to my Python Projects repository! This repository contains a collection of projects I have developed using Python and various Python libraries. These projects demonstrate my skills and experience in data analysis, machine learning, and other areas of Python programming.
 
