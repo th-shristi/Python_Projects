@@ -32,8 +32,8 @@ A system that suggests books to users based on their reading habits and preferen
 
 A chatbot designed to interact with users, provide information, and assist with queries. This project showcases natural language processing and machine learning techniques.
 
-- **Link to project:** [ChatBot]([(https://github.com/th-shristi/Python_Projects/blob/main/chatbot.py)](https://github.com/th-shristi/Python_Projects/blob/main/chatbot.py))
-
+- **Link to project:** [ChatBot](https://github.com/th-shristi/Python_Projects)
+  
 ### Password Generator
 
 A tool to generate secure, random passwords for users. This project emphasizes Python scripting and basic user interface design.
