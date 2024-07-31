@@ -20,7 +20,7 @@ Welcome to my Python Projects repository! This repository contains a collection 
 
 A project that uses the Spotify API to recommend music to users based on their listening history and preferences.
 
-- **Link to project:** [Book Recommendation System](https://github.com/th-shristi/Python_Projects/tree/main/Music%20Recommendation%20System)
+- **Link to project:** [Music Recommendation System](https://github.com/th-shristi/Python_Projects/tree/main/Music%20Recommendation%20System)
 
 ### Book Recommendation System
 
@@ -32,7 +32,7 @@ A system that suggests books to users based on their reading habits and preferen
 
 A chatbot designed to interact with users, provide information, and assist with queries. This project showcases natural language processing and machine learning techniques.
 
-- **Link to project:** [ChatBot]((https://github.com/th-shristi/Python_Projects/blob/main/chatbot.py))
+- **Link to project:** [ChatBot]([(https://github.com/th-shristi/Python_Projects/blob/main/chatbot.py)](https://github.com/th-shristi/Python_Projects/blob/main/chatbot.py))
 
 ### Password Generator
 
